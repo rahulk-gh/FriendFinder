@@ -6,7 +6,7 @@
 
 var friends = [
   {
-    name: "Ahmed",
+    name: "Anis",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
     scores: [
       "5",
@@ -22,7 +22,7 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
+    name: "Jake the snake",
     photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     scores: [
       "4",
@@ -38,7 +38,7 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
+    name: "Jeremiah Teach",
     photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
     scores: [
       "5",
@@ -54,7 +54,7 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
+    name: "Louis Vuitton",
     photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
     scores: [
       "3",
@@ -70,7 +70,7 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
+    name: "Lou Vega",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
     scores: [
       "4",
