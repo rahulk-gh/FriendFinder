@@ -6,8 +6,8 @@
 
 var friends = [
   {
-    name: "Anis",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Star Anis",
+    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrtGAhMjJ6ecnhprkhzbwm6ngR34lj72QYWm06a8ml2fXk6HD",
     scores: [
       "5",
       "1",
@@ -23,7 +23,7 @@ var friends = [
   },
   {
     name: "Jake the snake",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    photo: "https://i.ebayimg.com/images/g/lJwAAOxyBjBTVtJm/s-l300.jpg",
     scores: [
       "4",
       "2",
@@ -39,7 +39,7 @@ var friends = [
   },
   {
     name: "Jeremiah Teach",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    photo: "https://www.famousbirthdays.com/headshots/jeremiah-raber-1.jpg",
     scores: [
       "5",
       "2",
@@ -71,7 +71,7 @@ var friends = [
   },
   {
     name: "Lou Vega",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    photo: "https://i.ebayimg.com/images/g/u4AAAOSwHWtbviy6/s-l640.jpg",
     scores: [
       "4",
       "3",
@@ -87,10 +87,10 @@ var friends = [
   },
   {
     name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    photo: "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/talent/guy-fieri/CCTV-TalentAvatar-Guy-Fieri-800x800.jpg.rend.hgtvcom.336.336.suffix/1478703698614.jpeg",
     scores: [
-      "4",
-      "4",
+      "1",
+      "5",
       "2",
       "3",
       "2",
@@ -104,5 +104,5 @@ var friends = [
 
 ];
 
-// Here we export the array. This makes it accessible to other files using require.
+// Here we export the array. 
 module.exports = friends;
